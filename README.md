@@ -11,3 +11,4 @@ Un blog modelo para el curso de [Git - Github](http://https://platzi.com/clases/
 - Muchas buenas prácticas a la hora de manejar repos.
 
 Este archivo es en forma de práctica sobre como debería verse un archivo .md. Si te interesa saber mas del curso puedes ingresar [acá](http://http://https://platzi.com/clases/git-github/ "Git - Github" "acá")
+
