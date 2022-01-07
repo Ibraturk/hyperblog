@@ -9,5 +9,6 @@ Un blog modelo para el curso de [Git - Github](http://https://platzi.com/clases/
 - Hacer ***commits*** de archivos y hacer ***push*** hacía un repo en Github.
 - Pull request y cómo trabajar con grupos.
 - Muchas buenas prácticas a la hora de manejar repos.
+- Manejo del Stash para guardar cambios para despues.
 
 Este archivo es en forma de práctica sobre como debería verse un archivo .md. Si te interesa saber mas del curso puedes ingresar [acá](http://https://platzi.com/clases/git-github/ "acá")
